@@ -1,4 +1,4 @@
-# todoeyyyy_flutter_app
+# Todoeyyyy_flutter_app
 
 ## Todoey ✓
 
