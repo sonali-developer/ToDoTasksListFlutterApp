@@ -7,7 +7,7 @@ app to keep track of all your tasks.
 
 ## Things Learned
 
-Understand what is state and why we need to manage it.
+Understand what is state and why we need to manage it.\n
 Understand the difference between ephemeral (local) state and app state.
 See the problems with simply relying on setState().
 Learn about the concept of Prop Drilling.
